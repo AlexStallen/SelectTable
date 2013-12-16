@@ -68,7 +68,7 @@ $(document).ready(function() {
 });
 ```
 First parameter is the ID of the Tabel
-Second parameter is the ID of the button group where you wanns show the 'hide/show' button
+Second parameter is the ID of the button group where you want to show the 'hide/show' button
 Third parameter is the name you want to display on the 'hide/show' button
 Fourth parameter is a boolean(True or False) wether you want to include hide all / show all buttons in the menu
 
