@@ -1,6 +1,7 @@
 ## Intro
 
 This Javascript file provides a enduser with the ability to show and hide columns from a table, you can decide wich columns can be hidden
+Hidden columns are saved in the localStorage for the next visit
 
 
 ## Requirements
@@ -8,8 +9,6 @@ This Javascript file provides a enduser with the ability to show and hide column
 **Required:**
 
 * [jQuery](http://jquery.com/)
-
-**Optional:**
 
 * [Bootstrap](http://getbootstrap.com/2.3.2/) TODO: Upgrade code to use Bootstrap 3.x (not tested if it works with 3.0)
 
