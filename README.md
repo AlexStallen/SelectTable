@@ -21,7 +21,7 @@ This Javascript file provides a enduser with the ability to show and hide column
 Or clone it from github: 
 'https://github.com/AlexStallen/SelectTable.git'
 
-or download the archive from Github: 
+Or download the archive from Github: 
 'https://github.com/AlexStallen/SelectTable/archive/master.zip'
 
 
