@@ -16,7 +16,7 @@ This Javascript file provides a enduser with the ability to show and hide column
 
 ## Installation and Setup
 
-1. Place the selectable.js in your webroot
+Place the selectable.js in your webroot
 
 Or clone it from github: 
 'https://github.com/AlexStallen/SelectTable.git'
@@ -25,7 +25,7 @@ Or download the archive from Github:
 'https://github.com/AlexStallen/SelectTable/archive/master.zip'
 
 
-2. Include the javascript (selectable.js) onto the proper webpages
+Include the javascript (selecTable.js) onto the proper webpages
 
 
 
